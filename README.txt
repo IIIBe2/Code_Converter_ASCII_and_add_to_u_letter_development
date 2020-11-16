@@ -1,2 +1,3 @@
-To launch the application, install the PIP install eel and pip install random and pip install python directories. To run it, go to the folder Upgrade old prog-transl \ Upgrade old prog-transl in cmd and write python main.py
-d
+This program is developed on the eel plugin that runs on a web engine using python. Final-release is fully packaged. to run it, you need to run main.exe or follow the following interaction instructions in cmd.
+
+<code>git clone </code>
