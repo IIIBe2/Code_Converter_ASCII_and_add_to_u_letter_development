@@ -30,16 +30,16 @@ python main.py
 
 ### Start menu of the program
 
-[instructions_1](https://github.com/IIIBe2/Simvolic_converter/blob/IIIBe2-patch-prerelease/main/img/1.PNG)
+![instructions_1](https://github.com/IIIBe2/Simvolic_converter/blob/IIIBe2-patch-prerelease/main/img/1.PNG)
 
 ### Selecting additional characters for the text
 
-[instructions_2](https://github.com/IIIBe2/Simvolic_converter/blob/IIIBe2-patch-prerelease/main/img/2.PNG)
+![instructions_2](https://github.com/IIIBe2/Simvolic_converter/blob/IIIBe2-patch-prerelease/main/img/2.PNG)
 
 ### The result of selecting characters and their number, and the text output by the program
 
-[instructions_3](https://github.com/IIIBe2/Simvolic_converter/blob/IIIBe2-patch-prerelease/main/img/3.PNG)
+![instructions_3](https://github.com/IIIBe2/Simvolic_converter/blob/IIIBe2-patch-prerelease/main/img/3.PNG)
 
 ### After clicking settings, you can close additional characters and copy the text in one click
 
-[instructions_4](https://github.com/IIIBe2/Simvolic_converter/blob/IIIBe2-patch-prerelease/main/img/4.PNG)
+![instructions_4](https://github.com/IIIBe2/Simvolic_converter/blob/IIIBe2-patch-prerelease/main/img/4.PNG)
