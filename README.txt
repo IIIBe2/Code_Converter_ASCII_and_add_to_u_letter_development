@@ -15,6 +15,7 @@ git clone https://github.com/IIIBe2/Simvolic_converter
 
 Then do this:
 ```
+pip install eel
 cd Simvolic_converter/main
 ```
 
